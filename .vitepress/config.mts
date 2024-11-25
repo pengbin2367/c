@@ -3,7 +3,7 @@ import { defineConfig } from "vitepress";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "C/C++",
-  base: "/c/",
+  base: "/",
   lastUpdated: true,
   description: "A VitePress Site",
   themeConfig: {
